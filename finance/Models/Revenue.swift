@@ -16,6 +16,7 @@ final class Revenue: Identifiable, Hashable {
 
     var title: String
     var amount: String
+
     let createdAt: Date
 
     // MARK: - Init
