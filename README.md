@@ -1,2 +1,3 @@
 # finance
-'Finance' project repository for Apple devices developed with SwiftUI
+
+Exercise: SwiftUI and SwiftData project with testing
